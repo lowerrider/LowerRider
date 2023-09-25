@@ -1,4 +1,4 @@
-# Hi 👋, my name is Emma! I'm Frontend developer. 
+# Hi 👋, my name is Ruslan! I'm Frontend developer. 
 ### 📫 E-mail: nastykoocher@gmail.com
 ### :earth_africa: Telegram: @rusya_love_boobs
 
