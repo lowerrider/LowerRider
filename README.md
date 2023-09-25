@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 👋, my name is Emma! I'm Frontend developer. 
+### 📫 E-mail: nastykoocher@gmail.com
+### :earth_africa: Telegram: @rusya_love_boobs
 
 <!--
 **lowerrider/lowerrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
