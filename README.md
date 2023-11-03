@@ -1,6 +1,6 @@
 # Hi 👋, my name is Ruslan! I'm Frontend developer. 
 ### 📫 E-mail: haibalievruslan@gmail.com
-### :earth_africa: Telegram: @rusya_love_boobs
+### :earth_africa: Telegram: [click](https://t.me/rusya_love_boobs)
 
 <!--
 **lowerrider/lowerrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
